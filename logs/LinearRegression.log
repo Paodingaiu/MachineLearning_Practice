@@ -1,0 +1,197 @@
+2022-07-12 18:36:26 - root - INFO      - LinearRegression.py : 39 line - None
+2022-07-12 18:37:09 - root - INFO      - LinearRegression.py : 39 line - None
+2022-07-12 18:41:11 - root - INFO      - LinearRegression.py : 33 line - training starts
+2022-07-12 18:41:11 - root - INFO      - LinearRegression.py : 34 line - loading data...
+2022-07-12 18:41:11 - root - INFO      - LinearRegression.py : 41 line - None
+2022-07-12 18:41:11 - root - INFO      - LinearRegression.py : 45 line - training ends
+2022-07-12 18:46:16 - root - INFO      - LinearRegression.py : 33 line - training starts
+2022-07-12 18:46:16 - root - INFO      - LinearRegression.py : 34 line - loading data...
+2022-07-12 18:46:16 - root - INFO      - LinearRegression.py : 41 line - <method-wrapper '__str__' of NoneType object at 0x00007FFA8708ACD8>
+2022-07-12 18:46:16 - root - INFO      - LinearRegression.py : 45 line - training ends
+2022-07-12 18:46:32 - root - INFO      - LinearRegression.py : 33 line - training starts
+2022-07-12 18:46:32 - root - INFO      - LinearRegression.py : 34 line - loading data...
+2022-07-12 18:46:32 - root - INFO      - LinearRegression.py : 41 line - None
+2022-07-12 18:46:32 - root - INFO      - LinearRegression.py : 45 line - training ends
+2022-07-12 18:47:03 - root - INFO      - LinearRegression.py : 33 line - training starts
+2022-07-12 18:47:03 - root - INFO      - LinearRegression.py : 34 line - loading data...
+2022-07-12 18:47:18 - root - INFO      - LinearRegression.py : 33 line - training starts
+2022-07-12 18:47:18 - root - INFO      - LinearRegression.py : 34 line - loading data...
+2022-07-12 18:47:27 - root - INFO      - LinearRegression.py : 33 line - training starts
+2022-07-12 18:47:27 - root - INFO      - LinearRegression.py : 34 line - loading data...
+2022-07-12 18:47:27 - root - INFO      - LinearRegression.py : 41 line - None
+2022-07-12 18:47:27 - root - INFO      - LinearRegression.py : 45 line - training ends
+2022-07-12 18:52:52 - root - INFO      - LinearRegression.py : 34 line - training starts
+2022-07-12 18:52:52 - root - INFO      - LinearRegression.py : 35 line - loading data...
+2022-07-12 18:52:52 - root - INFO      - LinearRegression.py : 42 line - None
+2022-07-12 18:56:08 - root - INFO      - LinearRegression.py : 34 line - training starts
+2022-07-12 18:56:08 - root - INFO      - LinearRegression.py : 35 line - loading data...
+2022-07-12 18:56:08 - root - INFO      - LinearRegression.py : 42 line - None
+2022-07-12 18:56:59 - root - INFO      - LinearRegression.py : 34 line - training starts
+2022-07-12 18:56:59 - root - INFO      - LinearRegression.py : 35 line - loading data...
+2022-07-12 18:56:59 - root - INFO      - LinearRegression.py : 42 line - None
+2022-07-12 18:57:16 - root - INFO      - LinearRegression.py : 34 line - training starts
+2022-07-12 18:57:16 - root - INFO      - LinearRegression.py : 35 line - loading data...
+2022-07-12 18:57:16 - root - INFO      - LinearRegression.py : 42 line - None
+2022-07-12 18:59:19 - root - INFO      - LinearRegression.py : 34 line - training starts
+2022-07-12 18:59:19 - root - INFO      - LinearRegression.py : 35 line - loading data...
+2022-07-12 18:59:19 - root - INFO      - LinearRegression.py : 42 line - None
+2022-07-12 18:59:19 - root - INFO      - LinearRegression.py : 19 line - (155, 3)
+2022-07-12 18:59:19 - root - INFO      - LinearRegression.py : 46 line - training ends
+2022-07-12 19:03:57 - root - INFO      - LinearRegression.py : 37 line - training starts
+2022-07-12 19:03:57 - root - INFO      - LinearRegression.py : 38 line - loading data...
+2022-07-12 19:03:57 - root - INFO      - LinearRegression.py : 45 line - None
+2022-07-12 19:03:57 - root - INFO      - LinearRegression.py : 49 line - training ends
+2022-07-12 19:07:28 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:07:28 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:07:28 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:07:28 - root - INFO      - LinearRegression.py : 48 line - training ends
+2022-07-12 19:07:45 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:07:45 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:07:45 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:07:45 - root - INFO      - LinearRegression.py : 48 line - training ends
+2022-07-12 19:10:17 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:10:17 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:10:17 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:10:17 - root - INFO      - LinearRegression.py : 22 line - (155, 3)
+2022-07-12 19:10:17 - root - INFO      - LinearRegression.py : 22 line - (155,)
+2022-07-12 19:10:17 - root - INFO      - LinearRegression.py : 49 line - training ends
+2022-07-12 19:22:56 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:22:56 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:22:56 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:23:12 - root - INFO      - LinearRegression.py : 55 line - training ends
+2022-07-12 19:24:32 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:24:32 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:24:32 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:24:54 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:24:54 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:24:54 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:25:35 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:25:35 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:25:35 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:25:42 - root - INFO      - LinearRegression.py : 55 line - training ends
+2022-07-12 19:25:55 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:25:55 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:25:55 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:26:05 - root - INFO      - LinearRegression.py : 56 line - training ends
+2022-07-12 19:26:41 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:26:41 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:26:41 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:26:49 - root - INFO      - LinearRegression.py : 56 line - training ends
+2022-07-12 19:31:24 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:31:24 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:31:24 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:31:39 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:31:39 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:31:39 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:31:47 - root - INFO      - LinearRegression.py : 56 line - training ends
+2022-07-12 19:31:56 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:31:56 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:31:56 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:32:10 - root - INFO      - LinearRegression.py : 56 line - training ends
+2022-07-12 19:33:10 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:33:10 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:33:10 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:38:32 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:38:32 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:38:32 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:38:53 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:38:53 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:38:53 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:39:26 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:39:26 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:39:26 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:39:35 - root - INFO      - LinearRegression.py : 59 line - training ends
+2022-07-12 19:39:43 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:39:43 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:39:43 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:39:53 - root - INFO      - LinearRegression.py : 59 line - training ends
+2022-07-12 19:41:20 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:41:20 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:41:20 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:41:42 - root - INFO      - LinearRegression.py : 60 line - training ends
+2022-07-12 19:45:47 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:45:47 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:45:47 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:45:59 - root - INFO      - LinearRegression.py : 60 line - training ends
+2022-07-12 19:48:33 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:48:33 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:48:33 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:48:47 - root - INFO      - LinearRegression.py : 60 line - training ends
+2022-07-12 19:50:34 - root - INFO      - LinearRegression.py : 36 line - training starts
+2022-07-12 19:50:34 - root - INFO      - LinearRegression.py : 37 line - loading data...
+2022-07-12 19:50:34 - root - INFO      - LinearRegression.py : 44 line - None
+2022-07-12 19:51:04 - root - INFO      - LinearRegression.py : 61 line - training ends
+2022-07-13 17:49:09 - root - INFO      - LinearRegression.py : 38 line - training starts
+2022-07-13 17:49:09 - root - INFO      - LinearRegression.py : 39 line - loading data...
+2022-07-13 17:49:09 - root - INFO      - LinearRegression.py : 46 line - None
+2022-07-13 17:49:13 - root - INFO      - LinearRegression.py : 65 line - training ends
+2022-07-13 17:49:37 - root - INFO      - LinearRegression.py : 38 line - training starts
+2022-07-13 17:49:37 - root - INFO      - LinearRegression.py : 39 line - loading data...
+2022-07-13 17:49:37 - root - INFO      - LinearRegression.py : 46 line - None
+2022-07-13 17:51:42 - root - INFO      - LinearRegression.py : 38 line - training starts
+2022-07-13 17:51:42 - root - INFO      - LinearRegression.py : 39 line - loading data...
+2022-07-13 17:51:42 - root - INFO      - LinearRegression.py : 46 line - None
+2022-07-13 17:51:58 - root - INFO      - LinearRegression.py : 38 line - training starts
+2022-07-13 17:51:58 - root - INFO      - LinearRegression.py : 39 line - loading data...
+2022-07-13 17:51:58 - root - INFO      - LinearRegression.py : 46 line - None
+2022-07-13 17:52:00 - root - INFO      - LinearRegression.py : 67 line - training ends
+2022-07-13 18:34:11 - root - INFO      - LinearRegression.py : 39 line - training starts
+2022-07-13 18:34:11 - root - INFO      - LinearRegression.py : 40 line - loading data...
+2022-07-13 18:34:11 - root - INFO      - LinearRegression.py : 47 line - None
+2022-07-13 18:34:43 - root - INFO      - LinearRegression.py : 39 line - training starts
+2022-07-13 18:34:43 - root - INFO      - LinearRegression.py : 40 line - loading data...
+2022-07-13 18:34:43 - root - INFO      - LinearRegression.py : 47 line - None
+2022-07-13 18:41:15 - root - INFO      - LinearRegression_v1.py : 39 line - training starts
+2022-07-13 18:41:15 - root - INFO      - LinearRegression_v1.py : 40 line - loading data...
+2022-07-13 18:41:15 - root - INFO      - LinearRegression_v1.py : 47 line - None
+2022-07-13 18:42:36 - root - INFO      - LinearRegression_v1.py : 41 line - training starts
+2022-07-13 18:42:36 - root - INFO      - LinearRegression_v1.py : 42 line - loading data...
+2022-07-13 18:42:36 - root - INFO      - LinearRegression_v1.py : 49 line - None
+2022-07-13 18:47:04 - root - INFO      - LinearRegression_v1.py : 41 line - training starts
+2022-07-13 18:47:04 - root - INFO      - LinearRegression_v1.py : 42 line - loading data...
+2022-07-13 18:47:04 - root - INFO      - LinearRegression_v1.py : 49 line - None
+2022-07-13 18:47:24 - root - INFO      - LinearRegression_v1.py : 41 line - training starts
+2022-07-13 18:47:24 - root - INFO      - LinearRegression_v1.py : 42 line - loading data...
+2022-07-13 18:47:24 - root - INFO      - LinearRegression_v1.py : 49 line - None
+2022-07-13 18:48:33 - root - INFO      - LinearRegression_v1.py : 41 line - training starts
+2022-07-13 18:48:33 - root - INFO      - LinearRegression_v1.py : 42 line - loading data...
+2022-07-13 18:48:33 - root - INFO      - LinearRegression_v1.py : 49 line - None
+2022-07-13 18:52:04 - root - INFO      - LinearRegression_v1.py : 41 line - training starts
+2022-07-13 18:52:04 - root - INFO      - LinearRegression_v1.py : 42 line - loading data...
+2022-07-13 18:52:04 - root - INFO      - LinearRegression_v1.py : 49 line - None
+2022-07-13 18:54:23 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-13 18:54:23 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-13 18:54:23 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 11:39:33 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 11:39:33 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 11:39:33 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 11:42:20 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 11:42:20 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 11:42:20 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 11:43:51 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 11:43:51 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 11:43:51 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 11:44:48 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 11:44:48 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 11:44:48 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 12:06:35 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 12:06:35 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 12:06:36 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 12:15:52 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 12:15:52 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 12:15:52 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 12:26:22 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 12:26:22 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 12:26:22 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 12:27:13 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 12:27:13 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 12:27:13 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 12:27:41 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 12:27:41 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 12:27:41 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 14:51:30 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 14:51:30 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 14:51:30 - root - INFO      - LinearRegression_v1.py : 46 line - None
+2022-07-17 14:52:47 - root - INFO      - LinearRegression_v1.py : 38 line - training starts
+2022-07-17 14:52:47 - root - INFO      - LinearRegression_v1.py : 39 line - loading data...
+2022-07-17 14:52:47 - root - INFO      - LinearRegression_v1.py : 46 line - None
